@@ -1,2 +1,1 @@
-[![sorinraduta github stats](https://github-readme-stats.vercel.app/api?username=sorinraduta&show_icons=true&line_height=33&count_private=true&title_color=EC5061&text_color=FBDCDF&icon_color=E89F9A&bg_color=0D1117)](https://github.com/sorinraduta?tab=repositories)
-[![sorinraduta github repos](https://github-readme-stats.vercel.app/api/top-langs/?username=sorinraduta&hide=scheme&count_private=true&title_color=EC5061&text_color=FBDCDF&icon_color=E89F9A&bg_color=0D1117)](https://github.com/sorinraduta?tab=repositories)
+
